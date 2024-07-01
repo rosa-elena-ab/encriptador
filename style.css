@@ -183,7 +183,7 @@ main .textAreas{
         padding-left: 20px;
         padding-right: 20px;
         background: white;
-        background-image: url("/imagenes/Muneco.png");
+        background-image: url("./imagenes/Muneco.png");
         background-repeat: no-repeat;
         background-position-x: center;
         background-position-y: center;
